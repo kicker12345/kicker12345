@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kicker12345
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Pankaj Yadav
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me py7614203@gmail.com
+- 📫 How to reach me py7614203@gmail.com 9927208824
 - 
 
 <!---
